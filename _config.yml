@@ -1,0 +1,13 @@
+# Site settings
+title: Kristi - There's No Box
+email: kristi@theresnobox.net
+description: > # Portfolio and Blog of Kristi Centinaro. 
+  Ranting and observations in technology, cooking, culture, 
+  mindfulness, and anything else.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kristi.centinaro.net" # the base hostname & protocol for your site
+twitter_username: theresnobox
+github_username:  tnbKristi
+
+# Build settings
+markdown: kramdown
